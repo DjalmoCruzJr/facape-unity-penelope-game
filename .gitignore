@@ -1,0 +1,8 @@
+*.csproj
+*.sln
+*.exe
+*.userprefs
+*.unityproj
+*/SpaceRobot2D_Data
+*/ProjectSettings
+*/Library
